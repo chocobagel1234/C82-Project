@@ -1,0 +1,30 @@
+div {
+    display: inline-block;
+}
+
+label{
+    display: block;
+    color: rgb(119, 2, 94);
+}
+
+body{
+    text-align: center;
+}
+.body_background {
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+    cursor: pointer;
+    border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
